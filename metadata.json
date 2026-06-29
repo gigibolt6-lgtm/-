@@ -1,0 +1,8 @@
+{
+  "name": "StatVisualizer",
+  "description": "Visual learning app for statistical formulas like mean, variance, and standard deviation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
